@@ -1,0 +1,35 @@
+.task-management {
+    text-align: center;
+    padding: 20px;
+}
+
+.task-form {
+    margin-bottom: 20px;
+}
+
+.task-form input {
+    margin: 5px;
+    padding: 5px;
+}
+
+.task-columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-column {
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.task-card {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
